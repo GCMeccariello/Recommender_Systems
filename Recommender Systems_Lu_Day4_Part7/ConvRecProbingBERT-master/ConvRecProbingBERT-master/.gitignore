@@ -1,0 +1,8 @@
+env
+data/dialogue
+list_wise_reformer/list_wise_reformer.egg-info/*
+.vscode/launch.json
+rec_probing/*.egg-info
+*.pyc
+data/output_data/
+data/search/

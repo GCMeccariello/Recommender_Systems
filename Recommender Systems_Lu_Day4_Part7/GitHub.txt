@@ -1,0 +1,5 @@
+https://github.com/pcbreviglieri/data-science-recommending-music-artists
+https://github.com/Pager07/Context-aware-music-recommendation-system
+https://github.com/terwilligers/knowledge-graph-recommender
+https://github.com/Guzpenha/ConvRecProbingBERT 
+https://www.kaggle.com/pcbreviglieri/recommending-music-artists-with-boltzmann-machines

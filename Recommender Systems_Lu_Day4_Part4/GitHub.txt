@@ -1,0 +1,3 @@
+https://github.com/hwwang55/KGCN
+
+https://github.com/zzaebok/KGCN-pytorch
